@@ -15,6 +15,6 @@ public class EntryPoint_Manipulate : MonoBehaviour {
 		・外部との通信を受け/外部へと通信を行い、KJと戦斗する
 	*/
 	void Awake () {
-
+		
 	}
 }
